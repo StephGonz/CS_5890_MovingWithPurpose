@@ -1,4 +1,4 @@
-# CS_6890_FlightSim
+# CS_6890_MovingWithPurpose
 
 * Name: Stephanie Gonzales
 * ANumber: A00979467
